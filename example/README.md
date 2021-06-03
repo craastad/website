@@ -1,4 +1,4 @@
-Code snippets extracted using [tool/extract.dart](tool/extract.dart), are saved
+Code snippet extracted using [tool/extract.dart](tool/extract.dart), are saved
 into [example.g](example.g). The Yaml files in this folder are copied into
 [example.g](example.g), then the snippets are run through the analyzer and
 formatter.
