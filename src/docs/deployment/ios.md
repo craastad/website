@@ -316,7 +316,7 @@ Fetch the code signing files from App Store Connect:
 
 ```bash
 app-store-connect fetch-signing-files YOUR.APP.BUNDLE_ID \
-    --platform IOS_APP_STORE \
+    --type IOS_APP_STORE \
     --certificate-key=@file:/path/to/cert_key \
     --create
 ```
